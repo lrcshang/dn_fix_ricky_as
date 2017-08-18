@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Aug 18 13:38:10 CST 2017
+2.base=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\res\\resources-dev-debug.ap_
+5.file=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\res\\resources-dev-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\res\\resources-dev-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\res\\resources-dev-debug.ap_
+count=6
+0.file=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\transforms\\dex\\dev\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\res\\resources-dev-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\res\\resources-dev-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\res\\resources-dev-debug.ap_\\res\\layout\\activity_main.xml
+0.base=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\transforms\\dex\\dev\\debug\\folders\\1000\\1f\\main
+3.file=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\res\\resources-dev-debug.ap_\\res\\menu\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\res\\resources-dev-debug.ap_
+4.file=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\res\\resources-dev-debug.ap_\\AndroidManifest.xml
+0.set=DEX

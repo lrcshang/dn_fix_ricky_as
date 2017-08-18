@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Enzate\Desktop\dn_fix_ricky_as\app\src\main\jniLibs"/></dataSet><dataSet config="dev"><source path="C:\Users\Enzate\Desktop\dn_fix_ricky_as\app\src\dev\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Enzate\Desktop\dn_fix_ricky_as\app\src\debug\jniLibs"/></dataSet><dataSet config="devDebug"><source path="C:\Users\Enzate\Desktop\dn_fix_ricky_as\app\src\devDebug\jniLibs"/></dataSet></merger>

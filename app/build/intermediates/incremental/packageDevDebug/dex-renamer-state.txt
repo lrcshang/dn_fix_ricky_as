@@ -1,0 +1,4 @@
+#Fri Aug 18 13:38:10 CST 2017
+base.0=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\transforms\\dex\\dev\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Enzate\\Desktop\\dn_fix_ricky_as\\app\\build\\intermediates\\transforms\\dex\\dev\\debug\\folders\\1000\\1f\\main\\classes.dex

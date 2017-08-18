@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Enzate\Desktop\dn_fix_ricky_as\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Enzate\Desktop\dn_fix_ricky_as\app\build\intermediates\transforms\dex\dev\debug\folders\1000\10\com.android.support-multidex-1.0.1_4e5a109c5e96d33d020351192167decab8c82b9f\classes.dex" />
+    </item>
+
+</items>
